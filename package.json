@@ -1,0 +1,14 @@
+{
+  "name": "demo-server",
+  "version": "0.0.1",
+  "description": "Demo web server for pv output inference",
+  "main": "app.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "Laikh Tewari",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
